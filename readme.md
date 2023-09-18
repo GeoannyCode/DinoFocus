@@ -17,8 +17,7 @@ DinoFocus es una aplicación de gestión del tiempo basada en la técnica de Pom
 
 ## Capturas
 
-![Captura de pantalla 1](/screenshots/screenshot1.png)
-![Captura de pantalla 2](/screenshots/screenshot2.png)
+![](/screenshots/screenshot1.png)
 
 ## Instalación
 
